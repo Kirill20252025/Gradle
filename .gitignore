@@ -1,0 +1,40 @@
+# Build output directories
+out/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+.gradle/
+
+# Local Gradle cache
+.gradle/caches/
+.gradle/wrapper/
+
+# IntelliJ IDEA config files
+.idea/modules.xml
+.idea/.name
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/dataSources.xml
+.idea/dataSourceLocal.xml
+.idea/excludedFolders.xml
+.idea/codeStyles/*
+.idea/libraries/*
+.idea/misc.xml
+.idea/scopes/*
+.idea/sdkVersion.xml
+.idea/testFrameworks.xml
+.idea/uiDesigner.xml
+.idea/userInterfaceDesigners.xml
+.idea/uastClasses.*
+.idea/templates/
+
+# Eclipse configuration
+.classpath
+.project
+.settings/
+
+# NetBeans configuration
+nbproject/
